@@ -1,0 +1,4 @@
+######################################################################
+Texto conteudo de inputfile, caso o arquivo nao exista no cartao SD.
+Se ja existir, o arquivo nao sera modificado.
+######################################################################
